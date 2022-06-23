@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpvSoccer; a retired chip designer and verification engineer.
 - 👀 I’m interested in app development.
-- 🌱 I’m currently learning kotlin, oop, android studio.
+- 🌱 I’m currently learning dart from the command line.
 - 💞️ I’m looking to learn best practices for future looking apps.
 - 📫 How to reach me: john.vogel123@gmail.com
 
